@@ -1,0 +1,7 @@
+{
+  "name": "Sky Gesture Journey",
+  "description": "A 3D interactive experience inspired by Sky: Children of the Light. Use hand gestures to fly through a galaxy and collect spirits.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
